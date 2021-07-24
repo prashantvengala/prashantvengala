@@ -26,12 +26,13 @@
 <br/>
 
 <a href="https://drive.google.com/file/d/16lm7JWzvna56OI4HO1apcM0VIJD2Blxp/view?usp=sharing">
-<img alt="prashanth-resume" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" width="50px"/>
+<img alt="prashanth-resume" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" width="50px" height="50px"/>
 	My Resume
 </a>
 <br/>
+<br/>
 <a href="https://prashanth-portfolio.netlify.app">
-<img alt="prashanth-portfolio" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-285-692609.png" width="40px"/>
+<img alt="prashanth-portfolio" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-285-692609.png" width="40px" height="50px"/>
 	My Portfolio
 </a>
 <h3 align="left">Portfolio</h3>
