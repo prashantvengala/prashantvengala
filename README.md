@@ -31,7 +31,7 @@
 </a>
 <br/>
 <br/>
-<a href="https://prashanth-portfolio.netlify.app">
+<a href="https://prashanth-portfolio.netlify.app/">
 <img alt="prashanth-portfolio" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-285-692609.png" width="40px" height="50px"/>
 	My Portfolio
 </a>
