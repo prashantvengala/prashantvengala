@@ -47,6 +47,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prashantvengala&show_icons=true&theme=gotham" alt="prashantvengala" />
 
-<!-- <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=prashantvengala&theme=algolia" alt="prashantvengala" /></p>
- -->
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=prashantvengala&theme=algolia" alt="prashantvengala" /></p>
+
 </div>
