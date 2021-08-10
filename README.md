@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<a href="https://drive.google.com/file/d/16lm7JWzvna56OI4HO1apcM0VIJD2Blxp/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1iyJC8YLH22dTU5x7G6Pa0rMJNqtvTJy3/view?usp=sharing">
 <img alt="prashanth-resume" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" width="50px" height="50px"/>
 	My Resume
 </a>
