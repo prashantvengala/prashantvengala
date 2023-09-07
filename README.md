@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PRASHANTHVENGA8">
-  <img align="left" alt="prashanth-vengala  | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png)" />
+  <img align="left" alt="prashanth-vengala  | Twitter" width="22px" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prashanth-vengala-649b351b2/">
-  <img align="left" alt="prashanth-vengala's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png)" />
+  <img align="left" alt="prashanth-vengala's LinkedIN" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
 </a>
 </p>
 <br/>
